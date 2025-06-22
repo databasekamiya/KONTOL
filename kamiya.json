@@ -1,14 +1,6 @@
-
 {
-  "creator": "6287780293117",
-  "description": "BELAJAR PASANG DB.",
-  "lastUpdated": "Lates Version",
-  "author": "POU ICIKIWIR",
-  "status": "Active",
-  "license": "MIT",
-  "version": "3.0",
-  "Access": [
+  "data": [
+    "6287780293117",
     "6283131354890",
-    "6287780293117"
   ]
 }
